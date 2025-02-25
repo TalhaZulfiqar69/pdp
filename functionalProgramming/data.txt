@@ -1,0 +1,1 @@
+Functional programming (FP) me side effects ka concept central hota hai. FP me ideally pure functions use hoti hain, jo koi bhi side effect generate nahi karti. Magar real-world applications me hamesha side effects avoid karna possible nahi hota. Is liye, FP me side effects ko control karne ke tareeqe istemal kiye jate hain.
