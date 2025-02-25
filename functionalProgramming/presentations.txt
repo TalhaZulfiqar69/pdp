@@ -7,3 +7,5 @@ https://docs.google.com/document/d/1_bbbZbN89vAqUVEwe6r3kLNHcFCrGGNQ4WDdG5v6h3k/
 Side Effects
 https://docs.google.com/document/d/1EmXxt80gk1yFvYYBWecmolNod3hX7rLbyvUvyaNGWoc/edit?tab=t.0#heading=h.grwq3f4vjh4s
 
+Pure functions
+https://docs.google.com/document/d/1Zav9wCnLjMOnqAs4BcnRukFPRLb4nAw7uovFY-P4xhg/edit?tab=t.0
