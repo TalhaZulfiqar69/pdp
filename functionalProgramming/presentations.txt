@@ -9,3 +9,6 @@ https://docs.google.com/document/d/1EmXxt80gk1yFvYYBWecmolNod3hX7rLbyvUvyaNGWoc/
 
 Pure functions
 https://docs.google.com/document/d/1Zav9wCnLjMOnqAs4BcnRukFPRLb4nAw7uovFY-P4xhg/edit?tab=t.0
+
+Primitives and Reference Types
+https://docs.google.com/document/d/1A_hay1IzgbFChcugTqpM4U1Dn3DKxPHwkkHKmWwlr-8/edit?tab=t.0#heading=h.5t1ic488spk6
