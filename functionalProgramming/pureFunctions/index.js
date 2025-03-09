@@ -23,7 +23,6 @@ function add(a, b) {
   console.log(getEvenNumbers([1, 2, 3, 4, 5]));
 
 
-
   function doubleNumbers(numbers) {
     return numbers.map(n => n * 2);
   }
