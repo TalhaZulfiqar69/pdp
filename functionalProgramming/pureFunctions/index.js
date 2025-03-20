@@ -82,17 +82,6 @@ const increment = (value) => {
 console.log(increment(6));
 console.log(increment(6));
 
-// import locales from "./locales";
-// import default_locale from "./locales";
-
-const checkLocales = (locales, defauleLocale) => {
-  return (req, res, next) => {
-    const queryLocale = req.query.locale;
-    req.i18n = locales && locales.includes(queryLocale) ? queryLocale : defauleLocale;
-    next();
-  }
-}
-
 
 // This is impure function
 const stateUpdateImpureFunction = (state, action) => {
