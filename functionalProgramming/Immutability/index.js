@@ -88,16 +88,14 @@ const obj = {
 deepFreeze(obj);
 
 
+obj.data.name = "muna bhai";
+obj.user.age = 30;
+obj.data.nested1.school1 = "public 1";
+obj.data.nested1.nested2.school2 = "public 2";
+obj.data.nested1.nested2.nested3.school3 = "public 3";
+obj.data.nested1.nested2.nested3.nested4.school4 = "public 4";
 
-// // You can still modify nested properties, as `data` and `nested` are not frozen
-obj.data.name = "muna bhai";  // ✅ Allowed
-obj.user.age = 30;  // ✅ Allowed
-obj.data.nested1.school1 = "public 1";  // ✅ Allowed
-obj.data.nested1.nested2.school2 = "public 2";  // ✅ Allowed
-obj.data.nested1.nested2.nested3.school3 = "public 3";  // ✅ Allowed
-obj.data.nested1.nested2.nested3.nested4.school4 = "public 4";  // ✅ Allowed
-
-console.log(obj);  // Data changes will reflect
+console.log(obj);
 
 console.log("obj.data.name :", obj.data.name);
 console.log("obj.data.nested1.school1 :", obj.data.nested1.school1);
@@ -124,3 +122,5 @@ console.log("multiDimArray :", multiDimArray)
 const ar = [2,3,4];
 
 console.log(typeof arr);
+
+structuredClone()
